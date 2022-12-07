@@ -9,7 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx tsc",
     "start:dev": "npx nodemon",
-    "prettier": "npx prettier --write ."
+    "prettier": "npx prettier --write .",
+    "prettier:check": "npx prettier --check ."
   },
   "repository": {
     "type": "git",
