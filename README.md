@@ -5,4 +5,4 @@ Stack:
 - NodeJS
 - TypeScript
 - Express
-- Playwright for API testing (Coming Soon)
+- Playwright for API testing
